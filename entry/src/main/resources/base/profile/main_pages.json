@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AddCity",
+    "pages/search1",
+    "pages/delete"
+  ]
+}
